@@ -13,13 +13,13 @@
         "versionDescription": "Test.",
         "downloadURL": "https://app.rootqit.dev/",
         "localizedDescription": "This is a test source lol.",
-        "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+        "iconURL": "https://rootedcdn.rootqit.dev/img/FrokC.png",
         "tintColor": "9b54fd",
         "size": 14904310,
         "screenshotURLs": [
-          "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-          "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-          "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+          "https://rootedcdn.rootqit.dev/img/FrokC.png",
+          "https://rootedcdn.rootqit.dev/img/FrokC.png",
+          "https://rootedcdn.rootqit.dev/img/FrokC.png"
         ]
       }
     ]
